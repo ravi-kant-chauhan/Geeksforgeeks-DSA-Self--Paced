@@ -22,7 +22,6 @@ int findOdd(vector<int> v) {
     return 0;
 }
 
-
 Time complexity = O(n*n)
 */
 
