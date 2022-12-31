@@ -13,6 +13,7 @@ void insertionSort(int arr[], int n) {
     }
 }
 
+
 int main()
 {
     int arr[]={50,20,40,60,10,30};
