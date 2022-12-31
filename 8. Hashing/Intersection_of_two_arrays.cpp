@@ -5,7 +5,6 @@ using namespace std;
 
 /*  Naive Approach
 
-
 int countDistinct(int a[], int b[], int m, int n){
     int count = 0;
     for(int i= 0; i<m; i++){
