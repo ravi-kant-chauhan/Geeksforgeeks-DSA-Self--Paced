@@ -3,7 +3,7 @@ using namespace std;
 
 
 // Time complexity = Theta(n)
-
+// Space complexity
 
 int maxElement(int arr[], int n) {
     int x = arr[0];
