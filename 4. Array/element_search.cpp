@@ -2,7 +2,7 @@
 using namespace std;
 
 
-// Linear search
+// Linear search   O(n)
 int searchElement(vector<int> v, int x) {
     int n = v.size();
 
