@@ -13,6 +13,7 @@ using namespace std;
 //     return true;
 // }
 
+
 /*  Naive Solution
 
 void allPrime(int n) {
