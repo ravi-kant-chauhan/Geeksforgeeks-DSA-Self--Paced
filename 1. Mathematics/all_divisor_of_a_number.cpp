@@ -52,7 +52,6 @@ void divisor(int n) {
 }
 
 
-
 int main()
 {
     int n;
