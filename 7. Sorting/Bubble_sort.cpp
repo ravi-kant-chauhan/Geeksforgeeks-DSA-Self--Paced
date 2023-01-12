@@ -22,7 +22,6 @@ Time complexity = O(n2)
 
 //    Optimized Implementation   for already sorted array
 
-
 void bubbleSort(int arr[], int n)
 {
     bool swapped;
