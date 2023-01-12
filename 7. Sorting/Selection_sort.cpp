@@ -18,7 +18,6 @@ void selectionSort(int arr[], int n)
 
 }
 
-
 int main()
 {
     int a[] = {2, 1, 3, 4};
